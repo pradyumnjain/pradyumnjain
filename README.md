@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Amigos 👋
 ![Pradyumn's github stats](https://github-readme-stats.vercel.app/api?username=pradyumnjain&count_private=true)
 ![Alt Text](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
