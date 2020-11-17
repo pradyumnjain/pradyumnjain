@@ -3,6 +3,10 @@
 </h3>
 <br />
 
+<div align="center">
+   <h1>Hi there, I'm <a href="https://github.com/pradyumnjain">Pradyumn</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
+
 [![Website Badge](https://img.shields.io/badge/-pradyumn.portfolio-teal?style=flat-square&url=https://github.com/pradyumnjain)](https://github.com/pradyumnjain)
 [![Linkedin Badge](https://img.shields.io/badge/-pradyumnjain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradyumn-jain-33b071189/)](https://www.linkedin.com/in/pradyumn-jain-33b071189/)
 [![Instagram Badge](https://img.shields.io/badge/-pradyumnjain-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pradyumn_25/)](https://www.instagram.com/pradyumn_25/)
