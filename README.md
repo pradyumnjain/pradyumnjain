@@ -8,6 +8,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-pradyumnjain-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pradyumn_25/)](https://www.instagram.com/pradyumn_25/)
 <br />
 
+![trophy](https://github-profile-trophy.vercel.app/?username=pradyumnjain&margin-w=35&theme=nord&title=Commit,PR,Repo)
+
 ## Publications:
 <table><tr>
   <td>
