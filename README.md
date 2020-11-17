@@ -7,3 +7,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pradyumnjain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradyumn-jain-33b071189/)](https://www.linkedin.com/in/pradyumn-jain-33b071189/)
 [![Instagram Badge](https://img.shields.io/badge/-pradyumnjain-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pradyumn_25/)](https://www.instagram.com/pradyumn_25/)
 <br />
+
+## Publications:
+<table><tr>
+  <td>
+    <h3>Beginners Guide To Ensemble Learning</h3>
+    <p>Ensemble learning is the process by which multiple models, such as classifiers or experts, are strategically generated and combined to solve a particular computational intelligence problem</p>
+    <a href="https://medium.com/@pradyumn25jain/beginners-guide-to-ensemble-learning-78f4aecae02a">:arrow_forward: Read more</a>
+  </td>
+</tr>
+</table>
