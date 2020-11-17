@@ -9,6 +9,9 @@
 <br />
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=pradyumnjain&margin-w=35&theme=nord&title=Commit,PR,Repo)
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=pradyumnjain&margin-w=35&theme=nord&rank=SSS,SS,S,AAA,AA,A,B,C" />
+</p>
 
 ## Publications:
 <table><tr>
