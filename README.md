@@ -12,8 +12,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-pradyumn.linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pradyumn-jain-33b071189/)](https://www.linkedin.com/in/pradyumn-jain-33b071189/)
 [![Instagram Badge](https://img.shields.io/badge/-pradyumn.instagram-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pradyumn_25/)](https://www.instagram.com/pradyumn_25/)
 [![Gmail Badge](https://img.shields.io/badge/-Pradyumn.gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pradyumn25jain@gmail.com)](mailto:pradyumn25jain@gmail.com)
-<br />
 
+<br/>
+<br/>
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=pradyumnjain&margin-w=35&theme=nord&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p>
