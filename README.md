@@ -25,4 +25,11 @@
     <a href="https://medium.com/@pradyumn25jain/beginners-guide-to-ensemble-learning-78f4aecae02a">:arrow_forward: Read more</a>
   </td>
 </tr>
+   <tr>
+  <td>
+    <h3>AI bias in social media</h3>
+    <p>A probe into how AI bias reflects into your social media experience</p>
+    <a href="https://medium.com/@pradyumn25jain/a-probe-into-how-ai-bias-reflects-into-your-social-media-experience-dffa4df8c6e3">:arrow_forward: Read more</a>
+  </td>
+</tr>
 </table>
